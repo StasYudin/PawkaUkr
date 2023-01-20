@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Boost_DC_DC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Boost_DC_DC.SchDoc|FileName=Boost_Driver.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Boost_DC_DC.SchDoc|FileName=MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Boost_DC_DC.SchDoc|FileName=Mesure.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Boost_DC_DC.SchDoc|FileName=Power_suply.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Boost_DC_DC.SchDoc|FileName=PWM_Driver.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Boost_DC_DC.SchDoc|FileName=PWM_inverter.SchDoc|SheetNumber= 
