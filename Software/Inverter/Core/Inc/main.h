@@ -61,8 +61,16 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define LED_Pin GPIO_PIN_13
 #define LED_GPIO_Port GPIOC
-#define OUT_100Hz_Pin GPIO_PIN_1
-#define OUT_100Hz_GPIO_Port GPIOA
+#define OUT_PWM_Pin GPIO_PIN_0
+#define OUT_PWM_GPIO_Port GPIOA
+#define V_IN_SENS_Pin GPIO_PIN_2
+#define V_IN_SENS_GPIO_Port GPIOA
+#define I_SENS_Pin GPIO_PIN_3
+#define I_SENS_GPIO_Port GPIOA
+#define OUT_10uS_Pin GPIO_PIN_6
+#define OUT_10uS_GPIO_Port GPIOA
+#define HI_ISO_sens_Pin GPIO_PIN_0
+#define HI_ISO_sens_GPIO_Port GPIOB
 #define SPI1_CS_Pin GPIO_PIN_15
 #define SPI1_CS_GPIO_Port GPIOA
 

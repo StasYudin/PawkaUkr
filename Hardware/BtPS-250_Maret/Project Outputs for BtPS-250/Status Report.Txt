@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 14:59:10 On 22.01.2023
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [BtPS-250.PcbDoc]
+   Generated File[[STEP]BoardNumberVersion[[No Variations]]_2023-01-22.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:59:17 On 22.01.2023

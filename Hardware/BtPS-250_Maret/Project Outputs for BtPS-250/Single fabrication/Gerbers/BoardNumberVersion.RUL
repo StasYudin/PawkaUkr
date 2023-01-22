@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: D:\STM32_Projects\PawkaUkr\Hardware\BtPS-250_Maret\BtPS-250.PcbDoc
+RuleKind=Clearance|RuleName=HI_VTG|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=LOW|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
